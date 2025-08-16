@@ -1,0 +1,1 @@
+Rock Paper Scissors (HTML/CSS/JS) A tiny, framework-free Rock–Paper–Scissors game. Click a move, see the result with a quick animation, and track your score vs. the computer. Features - Vanilla JS logic (no deps) - Responsive layout with basic CSS animations - Live score + round history 
